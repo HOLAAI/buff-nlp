@@ -11,3 +11,12 @@
  # mission 
  
  1. A tutorial for people who beginer natural language processing.
+ 
+ 
+ <br />
+ <br />
+ <br />
+ 
+ # reference
+ 
+ 1. [CS224d](http://cs224d.stanford.edu/syllabus.html)
