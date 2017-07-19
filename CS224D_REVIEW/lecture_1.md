@@ -22,6 +22,8 @@
 
 3. NLP Level
 
+
+
 4. NLP Application  & Industry
 
  - spell checking, keyword search, finding synonyms
@@ -41,9 +43,11 @@
  6. What's Deep Learning (DL) ?
  
   - 머신러닝의 한분야 이다.
-  - 머신러닝의 메소드는 잘 동작한다. (사람이 representations 와 input features 를 디자인 하기 때문에)
-  - 최종적으로 예측 값에 대한 weights 값을 최적으로 만드는 작업이다.
-  - automatically learn good features or representations
-  - 
+  
+  - 딥러닝은 최종적으로 예측 값에 대한 weights 값을 최적으로 만드는 작업이다.
+  
+  - automatically learn good features or representations
+  
+ 
 
 
