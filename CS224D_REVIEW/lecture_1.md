@@ -22,6 +22,10 @@
 
 3. NLP Level
 
+![NLP level](https://github.com/HOLAAI/buff-nlp/blob/master/CS224D_REVIEW/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202017-07-19%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%209.26.04.png)
+
+이미지 출처 : http://cs224d.stanford.edu/lectures/CS224d-Lecture1.pdf
+
 
 
 4. NLP Application  & Industry
@@ -37,7 +41,8 @@
  
 5. Why NLP hard?
 
-  - 언어학적인 면, 사항 , 세상의 지식, 시각적 지식등 때문에 복잡하다.
+
+  - 언어학적인 면, 사항 , 세상의 지식, 시각적 지식등 때문에 복잡하다.
  
  
  6. What's Deep Learning (DL) ?
