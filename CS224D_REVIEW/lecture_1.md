@@ -42,11 +42,12 @@
  
  6. What's Deep Learning (DL) ?
  
-  - 머신러닝의 한분야 이다.
+ - 머신러닝의 한분야 이다.
   
-  - 딥러닝은 최종적으로 예측 값에 대한 weights 값을 최적으로 만드는 작업이다.
+  
+  - 딥러닝은 최종적으로 예측 값에 대한 weights 값을 최적으로 만드는 작업이다.
   
-  - automatically learn good features or representations
+  - automatically learn good features or representations . 
   
  
 
