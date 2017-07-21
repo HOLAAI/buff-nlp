@@ -8,7 +8,13 @@
 
 
 2. representation 문제점  
+ 
+ - synonyms(동의어) 문제
+ - impossible to keep up to date (최신 단어들을 지속적으로 적용 시킬수 없음)  
+ - 많은 노동력이 필요함 
+ 
 
+3. representation 종류
 
 -  discrete representation
    one hot vector
