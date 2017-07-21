@@ -6,6 +6,9 @@
 
 1. word representation 
 
+ -  discrete representation 
+ - one hot vector
+ - bag of words
 
 2. representation 문제점  
  
@@ -14,15 +17,10 @@
  - 많은 노동력이 필요함 
  
 
-3. representation 종류
+3. neighbors represent word
 
--  discrete representation
-   one hot vector
-   bag of words
-   
-   
- -  cooccurrent matrix
-    full document : LSA
-    Window around each word 
+- coocurrence matrix 
+    - full document 
+    - Window around each word 
 
 
